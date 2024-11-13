@@ -10,6 +10,7 @@ Create an `index.html` file with the [basic HTML structure](http://4geeks.com/le
 
 ```bash
 $ pip3 install flask && python3 server.py
+
 ```
 
 - You can create as many HTML files as you want.
